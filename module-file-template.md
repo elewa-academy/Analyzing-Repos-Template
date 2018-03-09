@@ -11,6 +11,7 @@ Principle Developer:
 * [Analysis](#analysis)
   * [Top-Down](#top-down)
   * [Bottom-Up](#bottom-up)
+  * [Security](#security)
   * [Competition](#competition)
 * [File Structure](#file-structure)  
 * [Specs](#specs)  
@@ -24,6 +25,8 @@ Principle Developer:
 Summarize your findings here
 
 ### Top Down
+
+This can guide you: https://bytearcher.com/articles/evaluating-packages-1-check-community/
 
 Community:
 1. __Dependent Projects__: 
@@ -43,6 +46,8 @@ Community:
 
 ### Bottom Up
 
+This can guide you: http://bytearcher.com/articles/evaluating-packages-2-review-repository/
+
 The Code:
 1. __Ease of Use__: 
 2. __Documentation__: 
@@ -52,6 +57,13 @@ The Code:
 5. __Complaints__: 
 6. __Support__: 
 7. __Code__: 
+
+### Security
+
+Assess the risks associated with including this dependency.  Are they worth the work it saves you?
+
+This can guide you: https://blog.risingstack.com/controlling-node-js-security-risk-npm-dependencies/
+
 
 ### Competition
 
